@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bddb40e9-fbd7-4bee-8fdf-c75f0ac488a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Productos/Prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Proveedor/Prov.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/Users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/mantenedoramazon.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fq9fF0Y8MYCAbtiNRffsnRWsfS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bddb40e9-fbd7-4bee-8fdf-c75f0ac488a6" name="Default Changelist" comment="" />
+      <created>1596595081825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596595081825</updated>
+      <workItem from="1596595084759" duration="4205000" />
+      <workItem from="1596754634935" duration="6399000" />
+      <workItem from="1596934867209" duration="3472000" />
+      <workItem from="1596940613388" duration="572000" />
+      <workItem from="1596941197404" duration="224000" />
+      <workItem from="1596941461514" duration="21000" />
+      <workItem from="1596942782582" duration="72000" />
+      <workItem from="1596943332849" duration="61000" />
+      <workItem from="1596943407200" duration="103000" />
+      <workItem from="1596943603392" duration="285000" />
+      <workItem from="1596946207125" duration="4064000" />
+      <workItem from="1597107371872" duration="2481000" />
+      <workItem from="1597177450412" duration="403000" />
+      <workItem from="1597199317801" duration="2758000" />
+      <workItem from="1597271140486" duration="3952000" />
+      <workItem from="1597325880229" duration="34000" />
+      <workItem from="1597615090935" duration="12990000" />
+      <workItem from="1597885534722" duration="2502000" />
+      <workItem from="1597962855672" duration="1199000" />
+      <workItem from="1598123989961" duration="20888000" />
+      <workItem from="1598580350485" duration="304000" />
+      <workItem from="1598580698469" duration="3491000" />
+      <workItem from="1599273231506" duration="6622000" />
+      <workItem from="1599340688616" duration="3207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="412" key="#ESLint" timestamp="1598135892901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="412" key="#ESLint/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598135892901" />
+    <state x="195" y="165" width="1264" height="710" key="SettingsEditor" timestamp="1596943870383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="195" y="165" width="1264" height="710" key="SettingsEditor/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596943870383" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596942786198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1242.658/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596942786198" />
+  </component>
+</project>
